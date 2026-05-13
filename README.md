@@ -1,10 +1,6 @@
 # FINAL PROJECT
 ## HABIT TRACKER
 
-Students: Samatova Zhanel, Tulegenova Karina
-
-Group: SE-2419
-
 ## Project Overview
 Habit Tracker is a full-stack project with a Bootstrap-based frontend and a Node/Express backend backed by MongoDB. It supports JWT authentication, profile management, habit tracking, logs, categories, reminders, and role-based access control (RBAC).
 
